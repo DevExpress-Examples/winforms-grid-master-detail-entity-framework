@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Entities/Form1.cs) (VB: [Form1.vb](./VB/Entities/Form1.vb))
+<!-- default file list end -->
 # How to display EF objects in a grid within master-detail mode when entities have many-to-many relationship
 
 
