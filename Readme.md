@@ -3,19 +3,19 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2766)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms Data Grid - Display many-to-many Entity Framework object relationship
+
+This example demonstrates how to use the WinForms Data Grid control to configure and visualize manay-to-many relateionship of Entity Framework objects.
+
+
+## Files to Review
 
 * [Form1.cs](./CS/Entities/Form1.cs) (VB: [Form1.vb](./VB/Entities/Form1.vb))
-<!-- default file list end -->
-# How to display EF objects in a grid within master-detail mode when entities have many-to-many relationship
 
 
-<p>This example illustrates how to show entities related with many-to-many relation in a grid within master-detail mode when an entity model contains a linked table.</p><br />
-<br />
-<p>See also:<br />
-<a href="https://www.devexpress.com/Support/Center/p/E417">A master-detail grid with Entity Framework objects</a></p>
+## Documentation
 
-<br/>
-
-
+* [Master-Detail Relationships](https://docs.devexpress.com/WindowsForms/3473/controls-and-libraries/data-grid/master-detail-relationships)
+* [Working with Master-Detail Relationships in Code](https://docs.devexpress.com/WindowsForms/732/controls-and-libraries/data-grid/master-detail/working-with-master-detail-relationships-in-code)
+* [Binding to Entity Framework Core](https://docs.devexpress.com/WindowsForms/118049/common-features/data-binding/binding-to-entity-framework-core)
