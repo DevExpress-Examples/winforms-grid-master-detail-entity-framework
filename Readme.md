@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Display many-to-many Entity Framework object relationship
 
-This example demonstrates how to use the WinForms Data Grid control to configure and visualize many-to-many relationship of Entity Framework objects.
+This example demonstrates how to use the WinForms Data Grid control to configure and visualize a many-to-many relationship of Entity Framework objects.
 
 
 ## Files to Review
