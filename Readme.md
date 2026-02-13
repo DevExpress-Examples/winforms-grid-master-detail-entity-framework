@@ -21,7 +21,7 @@ This example demonstrates how to use the WinForms Data Grid control to configure
 * [Working with Master-Detail Relationships in Code](https://docs.devexpress.com/WindowsForms/732/controls-and-libraries/data-grid/master-detail/working-with-master-detail-relationships-in-code)
 * [Binding to Entity Framework Core](https://docs.devexpress.com/WindowsForms/118049/common-features/data-binding/binding-to-entity-framework-core)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-master-detail-entity-framework&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-master-detail-entity-framework&~~~was_helpful=no)
 
